@@ -1,2 +1,6 @@
-package org.example;public class Statisztika {
+package org.example;
+
+public class Statisztika {
+
+
 }
